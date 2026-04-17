@@ -36,10 +36,5 @@ Resultados
 
 ---------------------------------
 Estrutura del proyecto
------------------------------------------------------------
-|          Archivo        |           Descripción         |
------------------------------------------------------------
-| Nodo.java               | Clases que representa un nodo |
-| ListaDobleCircular.java | Implementación de la lista    |
-| Main.java               | Menú Interactivo              |
------------------------------------------------------------
+
+<img width="1274" height="526" alt="image" src="https://github.com/user-attachments/assets/78a2b98c-ee54-4174-a4be-8f2110440d63" />
