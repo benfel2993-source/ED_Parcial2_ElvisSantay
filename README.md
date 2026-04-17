@@ -1,9 +1,9 @@
 Examen Parcial - Estructuras de Datos
 ---------------------------------
-Información del Estudiante:
-Nombre: Elvis Benfel Santay Canto
-Carné: 202500113
-Curso: Estructuras de Datos
+Información del Estudiante:  
+Nombre: Elvis Benfel Santay Canto  
+Carné: 202500113  
+Curso: Estructuras de Datos  
 Catedrático: Ing. Brandoy Chitay
 ---------------------------------
 Descripción
