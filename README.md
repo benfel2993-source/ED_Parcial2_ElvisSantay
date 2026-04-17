@@ -8,9 +8,11 @@ Catedrático: Ing. Brandoy Chitay
 ---------------------------------
 Descripción
 
-Este proyecto consiste en la implementación de una lista doblemente enlazada circular en Java. 
-Cada nodo contiene un dato, una referencia al nodo siguiente y una referencia al nodo anterior. 
-La lista es circular, lo que significa que el último nodo apunta al primero y el primero al último.
+Este proyecto implemente una lista doblemente enlazada circular en Java, donde los datos se almacenan en nodos conectados entre si mediante referencias "al siguiente" y "al anterior", formuando un ciclo.
+
+El programa permite insertar elementos al inicio o al final, haciendo que los nodos existentes cambien de posición y pasen de extremos a intermedios. Tambien permite eliminar elementos desde los extremos, reorganizando automaticamente la lista.
+
+Ademas, incluye una busqueda que recorre la lista para determinar si el dato solicitado existe o no. En todo momento, la estructura mantiene su forma circula, conectando siempre el primer nodo y el último nodo.
 
 Se implementaron las siguientes operaciones:
 - Insertar al inicio
