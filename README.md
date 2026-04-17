@@ -22,8 +22,9 @@ Se implementaron las siguientes operaciones:
 - Buscar elemento
 - Imprimir lista
 ---------------------------------
-Video Explicativo
+Video Explicativo:
 
+https://drive.google.com/file/d/1P9q7mhAvimNF3981HpLJQAOP0Aal5njN/view?usp=sharing
 
 ---------------------------------
 Resultados
